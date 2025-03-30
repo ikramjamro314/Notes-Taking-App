@@ -6,7 +6,11 @@ The Notes Taking App is a simple and efficient tool for creating, managing, and 
 
 ✨ Features
 
-✅ Create, edit, and delete notes effortlessly✅ Organize notes into different categories✅ 🔍 Search functionality for quick access✅ Works offline for easy note management✅ 🔄 Backup & restore options for data safety
+✅ Create, edit, and delete notes effortlessly
+✅ Organize notes into different categories
+✅ 🔍 Search functionality for quick access
+✅ Works offline for easy note management
+✅ 🔄 Backup & restore options for data safety
 
 🎯 Purpose
 
